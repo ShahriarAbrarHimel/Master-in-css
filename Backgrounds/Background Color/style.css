@@ -1,0 +1,17 @@
+h1.color{
+    color: #fff;
+    background-color:black;
+}
+p.transperent{
+    color: #ff0000;
+     background-color: transparent;
+}
+p.opacity{
+    color: lime;
+    opacity: 0.8;
+}
+p.six{
+    color:#fff;
+    background: rgba(0, 128, 0, 0.3);
+
+}
