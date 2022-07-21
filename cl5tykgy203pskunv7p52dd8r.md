@@ -1,4 +1,4 @@
-## Dns কি ?? Dns কিভাবে কাজ করে
+## what is DNS ?? How DNS works??
 
 ## DNS কি ?? DNS কিভাবে কাজ করে
 
